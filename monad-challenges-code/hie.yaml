@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "monad-challenges-code:lib"
+
+    - path: "./hakyll/site.hs"
+      component: "monad-challenges-code:exe:site"
